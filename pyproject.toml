@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-differential_diffusion-workflows"
+description = ""
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/ZHO-ZHO-ZHO/ComfyUI-Differential_Diffusion-Workflows"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Differential_Diffusion-Workflows"
+Icon = ""

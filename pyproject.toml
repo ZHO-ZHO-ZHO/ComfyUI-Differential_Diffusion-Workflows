@@ -1,6 +1,6 @@
 [project]
 name = "comfyui-differential_diffusion-workflows"
-description = ""
+description = "ComfyUI 已经直接支持了 Differential Diffusion，所以这个库现在用于存放我设计的 Differential Diffusion 工作流"
 version = "1.0.0"
 license = "LICENSE"
 
